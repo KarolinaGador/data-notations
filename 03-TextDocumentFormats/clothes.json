@@ -53,5 +53,28 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Reserved",
+        "founded": 1998,
+        "headquarters": "Gdańsk, Poland",
+        "employees": 43000,
+        "products": [
+            "Casual Wear",
+            "Fashion Apparel",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "4f",
+        "founded": 2003,
+        "headquarters": "Kraków, Poland",
+        "employees": 850,
+        "products": [
+            "Sportswear",
+            "Footwear",
+            "Accessories"
+        ]
     }
+
 ]

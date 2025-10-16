@@ -4,18 +4,18 @@
         <color>silver</color>
         <weight currency="kg">1400</weight>
         <ecoFriendly>no</ecoFriendly>
-        <hihgestSpeed currency="km/h">180</hihgestPpeed>
+        <highestSpeed currency="km/h">180</highestSpeed>
     </transport>
     <transport type="bike" brand="Kross">
         <color>white</color>
         <weight currency="kg">14</weight>
         <ecoFriendly>yes</ecoFriendly>
-        <highestspeed currency="km/h">40</highestspeed>
+        <highestSpeed currency="km/h">40</highestSpeed>
     </transport>
     <transport type="rollerblades" brand="crivit">
         <color>pink</color>
         <weight currency="kg">4</weight>
         <ecoFriendly>yes</ecoFriendly>
-        <hihgestSpeed currency="km/h">25</hihgestPpeed>
+        <highestSpeed currency="km/h">25</highestSpeed>
   </transport>
 </meansOfTransport>

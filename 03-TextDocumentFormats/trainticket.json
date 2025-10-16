@@ -1,0 +1,11 @@
+{
+    "from": "Kraków Głowny",
+    "to": "Tarnów",
+    "price": "20 pln",
+    "through": ["Kraków Płaszów","Podłęże"],
+    "hours of ride": 1,
+    "first class": false,
+    "second class": true
+
+
+}
