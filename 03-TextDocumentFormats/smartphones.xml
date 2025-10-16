@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Xiaomi" model="Redmi Note 13" releseyear="2024">
+        <specs>
+            <screenzise unit="inch">6.67</screenzise>
+            <batterycaptavity unit="mAh">5000</batterycaptavity>
+            <storage unit="gb">128</storage>
+            <camera unit="MP">108</camera>
+        </specs>
+        <price currency="USD">200</price>
+    </smartphone>
 </smartphones>

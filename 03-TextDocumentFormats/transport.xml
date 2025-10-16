@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meansOfTransport>
+    <transport type="car" brand="opel">
+        <color>silver</color>
+        <weight currency="kg">1400</weight>
+        <ecoFriendly>no</ecoFriendly>
+        <hihgestSpeed currency="km/h">180</hihgestPpeed>
+    </transport>
+    <transport type="bike" brand="Kross">
+        <color>white</color>
+        <weight currency="kg">14</weight>
+        <ecoFriendly>yes</ecoFriendly>
+        <highestspeed currency="km/h">40</highestspeed>
+    </transport>
+    <transport type="rollerblades" brand="crivit">
+        <color>pink</color>
+        <weight currency="kg">4</weight>
+        <ecoFriendly>yes</ecoFriendly>
+        <hihgestSpeed currency="km/h">25</hihgestPpeed>
+  </transport>
+</meansOfTransport>
